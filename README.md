@@ -1,6 +1,6 @@
 # 📊 Projeto BI - Healthcare (Scitech)
 
-Este repositório contém a modelagem de dados, scripts e dashboards em Power BI para análise integrada de uma empresa fictícia do setor de **Engenharia e Saúde** (Scitech).  
+Este repositório contém a modelagem de dados, scripts e dashboards em Power BI para análise integrada de uma empresa fictícia do setor de **Engenharia e Saúde**.  
 O objetivo do projeto é consolidar dados de diferentes áreas (Vendas, Produtos, Clientes, Estoque, Equipe, P&D, Despesas) e fornecer **insights para a tomada de decisão estratégica**.
 
 ---
